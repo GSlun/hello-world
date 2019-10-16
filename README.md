@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi GuoShouLun
+
+I like Java! This is my Github
